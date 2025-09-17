@@ -16,7 +16,7 @@ Artificial Intelligence (AI), Machine Learning (ML), Deep Learning, Computer Vis
 
 ## Skills
 * Familiar with Python, Javascript, Typescript, HTML, CSS, Microsoft AI Builder, Microsoft Office, Google Drive/Docs
-* Have knowledge in C/C++, Java, Go, R, React.js, Node.JS, Vue3, Kubernetes, Jenkins
+* Have knowledge in C/C++, Java, Go, R, React.js, Node.js, Vue.js, Kubernetes, Jenkins
 
 ## Languages
 * Chinese (Cantonese): Native or bilingual proficiency
