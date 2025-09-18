@@ -10,12 +10,12 @@
 main:
   - title: "Education"
     url: /education/
-  
-  - title: "Awards"
-    url: /awards/
 
   - title: "Working Experience"
     url: /working_experience/
+
+  - title: "Awards"
+    url: /awards/
 
   # - title: "Publications"
   #   url: /publications/
