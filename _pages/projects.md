@@ -32,6 +32,29 @@ redirect_from:
 
 ## Python/Jupyter Notebook
 
+* Optimal Model for Sign Language Recognition | <small>group-based</small>
+<br>([repository](https://github.com/Vincent-Chan/COMP4471-Group-Project-Optimal-Model-for-Sign-Language-Recognition))
+  * [description guidelines (given by the professor)](https://github.com/Vincent-Chan/COMP4471-Group-Project-Optimal-Model-for-Sign-Language-Recognition/blob/main/Project%20Description/COMP%204471%20%26%20ELEC%204240%20Course%20Project%20Discription.pdf)
+  * [proposal](https://github.com/Vincent-Chan/COMP4471-Group-Project-Optimal-Model-for-Sign-Language-Recognition/blob/main/Project%20Proposal/COMP4471%20Proposal.pdf)
+  * [milestone](https://github.com/Vincent-Chan/COMP4471-Group-Project-Optimal-Model-for-Sign-Language-Recognition/blob/main/Project%20Milestone/COMP4471%20Project%20Milestone.pdf)
+  * [final report](https://github.com/Vincent-Chan/COMP4471-Group-Project-Optimal-Model-for-Sign-Language-Recognition/blob/main/Project%20Final%20Report/COMP4471%20Project%20Final%20Report.pdf)
+  * [presentation slide](https://github.com/Vincent-Chan/COMP4471-Group-Project-Optimal-Model-for-Sign-Language-Recognition/blob/main/Project%20Presentation%20Slides/Presentation%20Slide_Darren_Starry_Vincent.pdf)
+  * [source code](https://github.com/Vincent-Chan/COMP4471-Group-Project-Optimal-Model-for-Sign-Language-Recognition/tree/main/Project%20Material/Source%20Codes)
+
+* Web-based Search Engine | <small>group-based</small>
+<br>([repository](https://github.com/Vincent-Chan/COMP4321-Group-Project-Search-Engine/tree/main))
+  * [description guidelines (given by the professor)](https://github.com/Vincent-Chan/COMP4321-Group-Project-Search-Engine/blob/main/Project%20Description/Project%20Description_25S.pdf)
+  * [phase 1 database schema design](https://github.com/Vincent-Chan/COMP4321-Group-Project-Search-Engine/blob/main/Project%20Phase%201/Phase1/COMP4321%20Phase%201%20Database%20Schema.pdf)
+  * [final phase report](https://github.com/Vincent-Chan/COMP4321-Group-Project-Search-Engine/blob/main/Project%20Final%20Phase/FinalPhase/Final%20Report.pdf)
+  * [final phase setup instructions](https://github.com/Vincent-Chan/COMP4321-Group-Project-Search-Engine/blob/main/Project%20Final%20Phase/FinalPhase/readme.txt)
+  * [final phase source code](https://github.com/Vincent-Chan/COMP4321-Group-Project-Search-Engine/tree/main/Project%20Final%20Phase/FinalPhase/code)
+  * [final phase demo video](https://youtu.be/j8jDPcPI_iQ)
+
+* One Pixel Attack | <small>group-based</small>
+<br>([repository](https://github.com/chchanec/One-Pixel-Attack/tree/main))
+  * [presentation slides](https://github.com/chchanec/One-Pixel-Attack/blob/main/Presentation.pdf)
+  * [source code](https://github.com/chchanec/One-Pixel-Attack/blob/main/traffic.ipynb)
+
 * Product Rating Prediction using Wide and Deep Learning Model | <small>group-based</small>
 <br>([repository](https://github.com/Vincent-Chan/Product-Rating-Prediction-using-Wide-and-Deep-Learning-Model))
   * [description guidelines (given by the professor)](https://github.com/Vincent-Chan/Product-Rating-Prediction-using-Wide-and-Deep-Learning-Model/blob/main/Project3_Rating_Prediction_Spring2024.pdf)
