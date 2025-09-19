@@ -9,10 +9,10 @@ redirect_from:
 
 ## C/C++
 
-<hr style="background-color:gray; height:2px;">
-
 * Peer-to-Peer File Sharing Application with Centralized Directory Server | <small>individual-based</small>
 <br>([repository](https://github.com/Vincent-Chan/Peer-to-Peer-File-Sharing-Application-with-Centralized-Directory-Server))
+
+
 
 ## Java
 
@@ -25,12 +25,13 @@ redirect_from:
   * [sign up form](https://github.com/Vincent-Chan/COMP3111H-Group-Project-Tom-and-Jerry-in-Maze-Game/blob/main/SignupForm.pdf)
   * [report](https://github.com/Vincent-Chan/COMP3111H-Group-Project-Tom-and-Jerry-in-Maze-Game/blob/main/COMP3111GRP34_Activity2.pdf)
 
-<hr style="background-color:gray; height:2px;">
 
 * MapReduce Programming using Java | <small>individual-based</small>
 <br>([repository](https://github.com/Vincent-Chan/MapReduce-Programming-using-Java))
 
-## Python/Jupyter Notebook
+
+
+## Python
 
 * Optimal Model for Sign Language Recognition | <small>group-based</small>
 <br>([repository](https://github.com/Vincent-Chan/COMP4471-Group-Project-Optimal-Model-for-Sign-Language-Recognition))
@@ -91,7 +92,6 @@ redirect_from:
   * [presentation slides](https://github.com/Vincent-Chan/Data-Analysis-on-Historical-Weather-Data-using-PySpark/blob/main/Presentation%20Slide.pdf)
   * [source code](https://github.com/Vincent-Chan/Data-Analysis-on-Historical-Weather-Data-using-PySpark/blob/main/project%20code.ipynb)
 
-<hr style="background-color:gray; height:2px;">
 
 * Image Style Transfer and Image Classification Using Part of the VGG19 Model Architecture | <small>individual-based</small>
 <br>([repository](https://github.com/Vincent-Chan/Image-Style-Transfer-and-Image-Classification-Using-Part-of-the-VGG19-Model-Architecture))
@@ -111,7 +111,9 @@ redirect_from:
 * PySpark Application on Word Count and Apache Log Analysis | <small>individual-based</small>
 <br>([repository](https://github.com/Vincent-Chan/PySpark-Application-on-Word-Count-and-Apache-Log-Analysis))
 
-## UI/UX (Figma)
+
+
+## UI/UX
 
 * T-AI (A platform to save UG students' grades & time while relieving the PGTAs’ burden) | <small>group-based</small>
 <br>([UG version prototype](https://www.figma.com/proto/LpBMejATUXyUJ6UPPIl33H/EMIA-2020-UI-Prototype?type=design&node-id=206-1247&t=y3EfoyTkxHoN36v8-0&scaling=min-zoom&page-id=206%3A1241&starting-point-node-id=206%3A1247&show-proto-sidebar=1))
