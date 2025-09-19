@@ -7,6 +7,24 @@ redirect_from:
   - /projects.html
 ---
 
+## Final Year Project
+
+* PAiCE: A Programming Practice Platform with AI-generated Coding Exercise | <small>group-based</small>
+<br>([repository](https://github.com/Vincent-Chan/HKUST-COMP4981-Final-Year-Project-FYP))
+  * [proposal report](https://github.com/Vincent-Chan/HKUST-COMP4981-Final-Year-Project-FYP/blob/main/Proposal%20Report/16_DES6_Prop.pdf)
+  * [individual ethics essay](https://github.com/Vincent-Chan/HKUST-COMP4981-Final-Year-Project-FYP/blob/main/Individual%20Ethics%20Essay/16_DES6_IndividualEssay_chchanec.docx)
+  * [monthly report (Oct)](https://github.com/Vincent-Chan/HKUST-COMP4981-Final-Year-Project-FYP/blob/main/Monthly%20Report%20(Oct)/16_DES6_RegReport2.pdf)
+  * [monthly report (Nov)](https://github.com/Vincent-Chan/HKUST-COMP4981-Final-Year-Project-FYP/blob/main/Monthly%20Report%20(Nov)/16_DES6_RegReport3.pdf)
+  * [monthly report (Dec & Jan)](https://github.com/Vincent-Chan/HKUST-COMP4981-Final-Year-Project-FYP/blob/main/Monthly%20Report%20(DecJan)/16_DES6_RegReport4.pdf)
+  * [progress report](https://github.com/Vincent-Chan/HKUST-COMP4981-Final-Year-Project-FYP/blob/main/Progress%20Report/16_DES6_Prog.pdf)
+  * [self assessment report](https://github.com/Vincent-Chan/HKUST-COMP4981-Final-Year-Project-FYP/blob/main/Self%20Assessment%20Report/16_DES6_SAR_chchanec.docx)
+  * [final report](https://github.com/Vincent-Chan/HKUST-COMP4981-Final-Year-Project-FYP/blob/main/Final%20Report/16_DES6_Final.pdf)
+  * [oral presentation slides](https://github.com/Vincent-Chan/HKUST-COMP4981-Final-Year-Project-FYP/blob/main/Oral%20Presentation/16_DES6_Oral.pptx)
+  * [video trailer](https://github.com/Vincent-Chan/HKUST-COMP4981-Final-Year-Project-FYP/blob/main/Video/16_DES6_Media.mp4)
+  * [source code](https://github.com/Vincent-Chan/HKUST-COMP4981-Final-Year-Project-FYP/tree/main/Code)
+
+
+
 ## C/C++
 
 * Peer-to-Peer File Sharing Application with Centralized Directory Server | <small>individual-based</small>
