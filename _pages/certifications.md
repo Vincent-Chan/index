@@ -21,5 +21,8 @@ redirect_from:
 
 ## NVIDIA Deep Learning Institute
 
+* Disaster Risk Monitoring Using Satellite Imagery | <small>completed on 23/09/2025</small>
+<br>([show credential](https://learn.nvidia.com/certificates?id=rbS_uFEaTX6OUyroTaM09A))
+
 * Learn OpenUSD: Understanding Model Kinds | <small>completed on 14/09/2025</small>
 <br>([show credential](https://learn.nvidia.com/certificates?id=gE7_59cMR92CuDLUV8x1QA))
