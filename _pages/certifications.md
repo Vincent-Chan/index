@@ -7,6 +7,12 @@ redirect_from:
   - /certifications.html
 ---
 
+## Amazon Web Services (AWS)
+
+* AWSome Day Hong Kong (2022) | <small>completed on 23/08/2022</small>
+<br>([show credential](https://github.com/Vincent-Chan/AWSome-Day-Hong-Kong--2022-08-23--certificate/blob/main/0823_AWSome%20Day_Certificate-of-Attendance_00510.pdf))
+
+
 ## Google for Education
 
 * Google AI for K12 Educators | <small>completed on 15/09/2025</small>
@@ -41,3 +47,9 @@ redirect_from:
 
 * Learn OpenUSD: Understanding Model Kinds | <small>completed on 14/09/2025</small>
 <br>([show credential](https://learn.nvidia.com/certificates?id=gE7_59cMR92CuDLUV8x1QA))
+
+
+## The Institution of Engineering and Technology Hong Kong (IET Hong Kong)
+
+* Webinar - Modern Railway Signalling System | <small>completed on 20/08/2022</small>
+<br>([show credential](https://github.com/Vincent-Chan/IET-HK-Webinar---Modern-Railway-Signalling-System-certificate/blob/main/CPD%20Certificate%20IET_YMS_20220820.pdf))
