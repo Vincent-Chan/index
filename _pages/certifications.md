@@ -21,6 +21,15 @@ redirect_from:
 
 ## NVIDIA Deep Learning Institute
 
+* Learn OpenUSD: Using Attributes | <small>completed on 24/09/2025</small>
+<br>([show credential](https://learn.nvidia.com/certificates?id=nSr5G0hTR0C9zywQ2vekrw))
+
+* Learn OpenUSD: Traversing Stages | <small>completed on 24/09/2025</small>
+<br>([show credential](https://learn.nvidia.com/certificates?id=OVNFn9TUTPmchDnh3eaLkQ))
+
+* Learn OpenUSD: An Introduction to Strength Ordering | <small>completed on 24/09/2025</small>
+<br>([show credential](https://learn.nvidia.com/certificates?id=RaHywpGPQy21zxkkBEdBmw))
+
 * Learn OpenUSD: Learning About Stages, Prims, and Attributes | <small>completed on 24/09/2025</small>
 <br>([show credential](https://learn.nvidia.com/certificates?id=W8AjJCHRTZCC6ulEOoN5VQ))
 
