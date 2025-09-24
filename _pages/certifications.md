@@ -21,6 +21,9 @@ redirect_from:
 
 ## NVIDIA Deep Learning Institute
 
+* Learn OpenUSD: Learning About Stages, Prims, and Attributes | <small>completed on 24/09/2025</small>
+<br>([show credential](https://learn.nvidia.com/certificates?id=W8AjJCHRTZCC6ulEOoN5VQ))
+
 * Building RAG Agents with LLMs | <small>completed on 24/09/2025</small>
 <br>([show credential](https://learn.nvidia.com/certificates?id=gpNuYTDpRY-Fr7jCPdzEmQ))
 
