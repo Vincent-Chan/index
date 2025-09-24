@@ -21,6 +21,9 @@ redirect_from:
 
 ## NVIDIA Deep Learning Institute
 
+* Building RAG Agents with LLMs | <small>completed on 24/09/2025</small>
+<br>([show credential](https://learn.nvidia.com/certificates?id=gpNuYTDpRY-Fr7jCPdzEmQ))
+
 * Disaster Risk Monitoring Using Satellite Imagery | <small>completed on 23/09/2025</small>
 <br>([show credential](https://learn.nvidia.com/certificates?id=rbS_uFEaTX6OUyroTaM09A))
 
