@@ -25,6 +25,12 @@ redirect_from:
 <br>([show credential](https://edu.google.accredible.com/99dc256e-3672-4a87-931b-4ed3590f9f69))
 
 
+## Huawei ICT Academy
+
+* Artificial Intelligence Technology and Applications (人工智能技術與應用) | <small>completed on 02/10/2025</small>
+<br>([show credential](https://github.com/Vincent-Chan/Artificial-Intelligence-Technology-and-Applications/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E8%A1%93%E8%88%87%E6%87%89%E7%94%A8.png))
+
+
 ## NVIDIA Deep Learning Institute
 
 * Learn OpenUSD: Using Attributes | <small>completed on 24/09/2025</small>
