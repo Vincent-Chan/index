@@ -30,8 +30,8 @@ redirect_from:
 * AI Basic: Overview of AI (CRA Training Program) | <small>completed on 02/10/2025</small>
 <br>([show credential](https://github.com/Vincent-Chan/AI-Basic-Overview-of-AI--CRA-Training-Program-/blob/main/AI%20Basic%20Overview%20of%20AI%20(CRA%20Training%20Program).png))
 
-* Artificial Intelligence Technology and Applications (人工智能技術與應用) | <small>completed on 02/10/2025</small>
-<br>([show credential](https://github.com/Vincent-Chan/Artificial-Intelligence-Technology-and-Applications/blob/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E8%A1%93%E8%88%87%E6%87%89%E7%94%A8.png))
+* Artificial Intelligence Technology and Applications | <small>completed on 02/10/2025</small>
+<br>([show credential](https://github.com/Vincent-Chan/Artificial-Intelligence-Technology-and-Applications/blob/main/Artificial%20Intelligence%20Technology%20and%20Applications.png))
 
 
 ## NVIDIA Deep Learning Institute
