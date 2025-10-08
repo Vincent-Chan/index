@@ -27,6 +27,9 @@ redirect_from:
 
 ## Huawei ICT Academy
 
+* HCIA-Security V4.0 Course | <small>completed on 08/10/2025</small>
+<br>([show credential](https://github.com/Vincent-Chan/HCIA-Security-V4.0-Course/blob/main/HCIA-Security%20V4.0%20Course.png))
+
 * HCIA-AI V4.0 Course | <small>completed on 03/10/2025</small>
 <br>([show credential](https://github.com/Vincent-Chan/HCIA-AI-V4.0-Course/blob/main/HCIA-AI%20V4.0%20Course.png))
 
