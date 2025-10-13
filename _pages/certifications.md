@@ -27,6 +27,9 @@ redirect_from:
 
 ## Huawei ICT Academy
 
+* HCIA-WLAN V3.0 Course | <small>completed on 13/10/2025</small>
+<br>([show credential](https://github.com/Vincent-Chan/HCIA-WLAN-V3.0-Course/blob/main/HCIA-WLAN%20V3.0%20Course.png))
+
 * HCIA-Security V4.0 Course | <small>completed on 08/10/2025</small>
 <br>([show credential](https://github.com/Vincent-Chan/HCIA-Security-V4.0-Course/blob/main/HCIA-Security%20V4.0%20Course.png))
 
