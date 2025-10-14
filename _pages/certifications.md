@@ -69,5 +69,8 @@ redirect_from:
 
 ## The Institution of Engineering and Technology Hong Kong (IET Hong Kong)
 
+* Technical Visit to Hong Kong International Airport | <small>completed on 09/10/2025</small>
+<br>([show credential](https://github.com/Vincent-Chan/IET-HK-Technical-Visit-to-Hong-Kong-International-Airport-certificate/blob/main/IET%20HK%20Technical%20Visit%20to%20Hong%20Kong%20International%20Airport%20certificate.pdf))
+
 * Webinar - Modern Railway Signalling System | <small>completed on 20/08/2022</small>
 <br>([show credential](https://github.com/Vincent-Chan/IET-HK-Webinar---Modern-Railway-Signalling-System-certificate/blob/main/CPD%20Certificate%20IET_YMS_20220820.pdf))
