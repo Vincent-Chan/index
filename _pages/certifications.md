@@ -27,6 +27,9 @@ redirect_from:
 
 ## Huawei ICT Academy
 
+* Principles and Applications of WLAN | <small>completed on 14/10/2025</small>
+<br>([show credential](https://github.com/Vincent-Chan/Principles-and-Applications-of-WLAN/blob/main/Principles%20and%20Applications%20of%20WLAN.png))
+
 * HCIA-WLAN V3.0 Course | <small>completed on 13/10/2025</small>
 <br>([show credential](https://github.com/Vincent-Chan/HCIA-WLAN-V3.0-Course/blob/main/HCIA-WLAN%20V3.0%20Course.png))
 
