@@ -27,6 +27,9 @@ redirect_from:
 
 ## Huawei ICT Academy
 
+* Computer Networks (CRA Training Program) | <small>completed on 14/10/2025</small>
+<br>([show credential](https://github.com/Vincent-Chan/Computer-Networks--CRA-Training-Program-/blob/main/Computer%20Networks%20(CRA%20Training%20Program).png))
+
 * Principles and Applications of WLAN | <small>completed on 14/10/2025</small>
 <br>([show credential](https://github.com/Vincent-Chan/Principles-and-Applications-of-WLAN/blob/main/Principles%20and%20Applications%20of%20WLAN.png))
 
