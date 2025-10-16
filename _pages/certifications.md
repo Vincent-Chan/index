@@ -9,6 +9,9 @@ redirect_from:
 
 ## Amazon Web Services (AWS)
 
+* AWS Innovate - Migrate and Modernize (2025) | <small>completed on 15/10/2025</small>
+<br>([show credential](https://github.com/Vincent-Chan/AWS-Innovate---Migrate-and-Modernize-2025/blob/main/Certificate%20of%20Attendance.pdf))
+
 * AWSome Day Hong Kong (2022) | <small>completed on 23/08/2022</small>
 <br>([show credential](https://github.com/Vincent-Chan/AWSome-Day-Hong-Kong--2022-08-23--certificate/blob/main/0823_AWSome%20Day_Certificate-of-Attendance_00510.pdf))
 
