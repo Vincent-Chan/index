@@ -13,6 +13,12 @@ redirect_from:
 <br>([show credential](https://github.com/Vincent-Chan/AWSome-Day-Hong-Kong--2022-08-23--certificate/blob/main/0823_AWSome%20Day_Certificate-of-Attendance_00510.pdf))
 
 
+## Equal Opportunities Commission (EOC)
+
+* Online Training Module on Preventing Sexual Harassment on Campus | <small>completed on 16/10/2025</small>
+<br>([show credential](https://github.com/Vincent-Chan/Online-Training-Module-on-Preventing-Sexual-Harassment-on-Campus/blob/main/certificate_of_completion.pdf))
+
+
 ## Google for Education
 
 * Google AI for K12 Educators | <small>completed on 15/09/2025</small>
