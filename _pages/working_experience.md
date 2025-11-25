@@ -9,6 +9,14 @@ redirect_from:
   - /industrial_experience.html
 ---
 
+* <b>Research Assistant (Full-time)</b> | <small>17/11/2025 - 17/12/2025</small>
+<br>Department of Computing, Faculty of Computer and Mathematical Sciences
+<br>The Hong Kong Polytechnic University
+    * Assist in a research project related to benchmarking visual language models as intelligent assistants in AI smart glasses under the supervision of Prof. Wenqi FAN
+    * Teamed with other students and staff to collect image data using AI smart glasses
+    * Perform data labelling and designing question-answer pairs
+    * Help to correct erroneous data labels and refine question-answer pairs
+
 * <b>Summer Intern (Full-time)</b> | <small>01/06/2024 - 31/08/2024</small>
 <br>Enterprise Framework and Cloud Computing, Information Services Department
 <br>Orient Overseas Container Line Ltd.
