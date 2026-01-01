@@ -9,7 +9,9 @@ redirect_from:
   - /about_me.html
 ---
 
-Hi! Welcome to my personal website! I am a graduate from the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) of [The Hong Kong University of Science and Technology](https://hkust.edu.hk/).
+Hi! Welcome to my personal website! I am currently an MPhil candidate student in the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My chief supervisor is [Prof. Wenqi FAN](https://wenqifan03.github.io/).
+
+I obtained my Bachelor of Engineering degree from the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) of [The Hong Kong University of Science and Technology](https://hkust.edu.hk/).
 
 ## Research Interest
 Artificial Intelligence (AI), Machine Learning (ML), Deep Learning, Computer Vision (CV), Data Mining, Large Language Models (LLMs), Recommendation Systems (RecSys), Diffusion Models
