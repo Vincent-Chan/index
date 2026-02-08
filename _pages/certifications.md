@@ -16,6 +16,12 @@ redirect_from:
 <br>([show credential](https://github.com/Vincent-Chan/AWSome-Day-Hong-Kong--2022-08-23--certificate/blob/main/0823_AWSome%20Day_Certificate-of-Attendance_00510.pdf))
 
 
+## Educational Development Centre (EDC), The Hong Kong Polytechnic University (PolyU)
+
+* Becoming an Effective Teaching Assistant (BETA) | <small>completed on 04/02/2026</small>
+<br>([show credential](https://github.com/Vincent-Chan/Becoming-an-Effective-Teaching-Assistant--BETA--E-Certificate/blob/main/Becoming%20an%20Effective%20Teaching%20Assistant%20(BETA)%20Certificate%20of%20Attendance.pdf))
+
+
 ## Equal Opportunities Commission (EOC)
 
 * Online Training Module on Preventing Sexual Harassment on Campus | <small>completed on 16/10/2025</small>
